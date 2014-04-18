@@ -74,4 +74,3 @@ This library has no external dependencies. To run the tests, however, you'll nee
 ## Concluding remarks
 
 If you find this library useful, we'd love to hear from you: [Northeastern University Systems Security Lab](http://seclab.ccs.neu.edu/) / [Tobias Lauinger](http://tobias.lauinger.name/).
-
