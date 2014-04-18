@@ -1,0 +1,5 @@
+img-src http://seclab.nu:80/
+img-src http://seclab.ccs.neu.edu/path
+style-src 'unsafe-inline'
+frame-src *.seclab.ccs.nu:*
+font-src 'none'

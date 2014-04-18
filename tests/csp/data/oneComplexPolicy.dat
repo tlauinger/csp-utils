@@ -1,0 +1,1 @@
+default-src http://default.com/; script-src 'unsafe-inline' 'unsafe-eval' 'self'; img-src http://seclab.nu:80/; object-src seclab.nu:*
